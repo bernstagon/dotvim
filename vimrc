@@ -20,7 +20,9 @@ set smartindent
 syntax on
 color dracula "from dracula vim plugin
 set number
+
 set foldmethod=syntax
+set nofoldenable "don't fold on start
 
 set autoread
 
